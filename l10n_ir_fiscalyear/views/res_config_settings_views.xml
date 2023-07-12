@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data>
+        <record id="res_config_settings_view_form" model="ir.ui.view">
+            <field name="name">res.config.settings.view.form.inherit.account.accountant</field>
+            <field name="model">res.config.settings</field>
+            <field name="priority" eval="30"/>
+            <field name="inherit_id" ref="account.res_config_settings_view_form" />
+            <field name="arch" type="xml">
+                <xpath expr="//field[@name='fiscalyear_last_day']" position="after">
+					<div class="col-lg-9">
+                    <field name="l10n_ir_fiscalyear_last_day"/>
+					</div>
+                </xpath>
+                <xpath expr="//field[@name='fiscalyear_last_day']" position="attributes">
+                    <attribute name="invisible">1</attribute>
+                </xpath>
+                <xpath expr="//field[@name='fiscalyear_last_month']" position="after">
+					<div class="col-lg-9">
+                    <field name="l10n_ir_fiscalyear_last_month" class="pe-2"/>
+					</div>					
+                </xpath>
+                <xpath expr="//field[@name='fiscalyear_last_month']" position="attributes">
+                    <attribute name="invisible">1</attribute>
+                </xpath>
+            </field>
+        </record>
+    </data>
+</odoo>

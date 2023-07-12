@@ -1,0 +1,124 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* l10n_ir_fiscalyear
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0+e-20210204\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-07-09 11:05+0000\n"
+"PO-Revision-Date: 2023-07-09 15:38+0430\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: Poedit 3.2.2\n"
+
+#. module: l10n_ir_fiscalyear
+#: model:ir.model.fields.selection,name:l10n_ir_fiscalyear.selection__res_company__l10n_ir_fiscalyear_last_month__8
+msgid "Aban"
+msgstr "آبان"
+
+#. module: l10n_ir_fiscalyear
+#: model:ir.model.fields.selection,name:l10n_ir_fiscalyear.selection__res_company__l10n_ir_fiscalyear_last_month__9
+msgid "Azar"
+msgstr "آذر"
+
+#. module: l10n_ir_fiscalyear
+#: model:ir.model.fields.selection,name:l10n_ir_fiscalyear.selection__res_company__l10n_ir_fiscalyear_last_month__11
+msgid "Bahman"
+msgstr "بهمن"
+
+#. module: l10n_ir_fiscalyear
+#: model:ir.model,name:l10n_ir_fiscalyear.model_res_company
+msgid "Companies"
+msgstr "شرکت‌ها"
+
+#. module: l10n_ir_fiscalyear
+#: model:ir.model,name:l10n_ir_fiscalyear.model_res_config_settings
+msgid "Config Settings"
+msgstr "تنظیمات پیکربندی"
+
+#. module: l10n_ir_fiscalyear
+#: model:ir.model.fields.selection,name:l10n_ir_fiscalyear.selection__res_company__l10n_ir_fiscalyear_last_month__10
+msgid "Dey"
+msgstr "دی"
+
+#. module: l10n_ir_fiscalyear
+#: model:ir.model.fields,field_description:l10n_ir_fiscalyear.field_res_company__display_name
+#: model:ir.model.fields,field_description:l10n_ir_fiscalyear.field_res_config_settings__display_name
+msgid "Display Name"
+msgstr "نام نمایشی"
+
+#. module: l10n_ir_fiscalyear
+#: model:ir.model.fields.selection,name:l10n_ir_fiscalyear.selection__res_company__l10n_ir_fiscalyear_last_month__12
+msgid "Esfand"
+msgstr "اسفند"
+
+#. module: l10n_ir_fiscalyear
+#: model:ir.model.fields.selection,name:l10n_ir_fiscalyear.selection__res_company__l10n_ir_fiscalyear_last_month__1
+msgid "Farvardin"
+msgstr "فروردین"
+
+#. module: l10n_ir_fiscalyear
+#: model:ir.model.fields,field_description:l10n_ir_fiscalyear.field_res_company__id
+#: model:ir.model.fields,field_description:l10n_ir_fiscalyear.field_res_config_settings__id
+msgid "ID"
+msgstr "شناسه"
+
+#. module: l10n_ir_fiscalyear
+#: model:ir.model.fields.selection,name:l10n_ir_fiscalyear.selection__res_company__l10n_ir_fiscalyear_last_month__3
+msgid "Khordad"
+msgstr "خرداد"
+
+#. module: l10n_ir_fiscalyear
+#: model:ir.model.fields,field_description:l10n_ir_fiscalyear.field_res_company__l10n_ir_fiscalyear_last_day
+#: model:ir.model.fields,field_description:l10n_ir_fiscalyear.field_res_config_settings__l10n_ir_fiscalyear_last_day
+msgid "L10N Ir Fiscalyear Last Day"
+msgstr "L10N Ir Fiscalyear Last Day"
+
+#. module: l10n_ir_fiscalyear
+#: model:ir.model.fields,field_description:l10n_ir_fiscalyear.field_res_company__l10n_ir_fiscalyear_last_month
+#: model:ir.model.fields,field_description:l10n_ir_fiscalyear.field_res_config_settings__l10n_ir_fiscalyear_last_month
+msgid "L10N Ir Fiscalyear Last Month"
+msgstr "L10N Ir Fiscalyear Last Month"
+
+#. module: l10n_ir_fiscalyear
+#: model:ir.model.fields,field_description:l10n_ir_fiscalyear.field_res_company____last_update
+#: model:ir.model.fields,field_description:l10n_ir_fiscalyear.field_res_config_settings____last_update
+msgid "Last Modified on"
+msgstr "آخرین تغییر در"
+
+#. module: l10n_ir_fiscalyear
+#: model:ir.model.fields.selection,name:l10n_ir_fiscalyear.selection__res_company__l10n_ir_fiscalyear_last_month__7
+msgid "Mehr"
+msgstr "مهر"
+
+#. module: l10n_ir_fiscalyear
+#: model:ir.model.fields.selection,name:l10n_ir_fiscalyear.selection__res_company__l10n_ir_fiscalyear_last_month__5
+msgid "Mordad"
+msgstr "مرداد"
+
+#. module: l10n_ir_fiscalyear
+#: model:ir.model.fields.selection,name:l10n_ir_fiscalyear.selection__res_company__l10n_ir_fiscalyear_last_month__2
+msgid "Ordibehesht"
+msgstr "اردیبهشت"
+
+#. module: l10n_ir_fiscalyear
+#: model:ir.model.fields.selection,name:l10n_ir_fiscalyear.selection__res_company__l10n_ir_fiscalyear_last_month__6
+msgid "Shahrivar"
+msgstr "شهریور"
+
+#. module: l10n_ir_fiscalyear
+#: model:ir.model.fields.selection,name:l10n_ir_fiscalyear.selection__res_company__l10n_ir_fiscalyear_last_month__4
+msgid "Tir"
+msgstr "تیر"
+
+#. module: l10n_ir_fiscalyear
+#: code:addons/l10n_ir_fiscalyear/models/res_company.py:0
+#, python-format
+msgid "fiscal year last day: day is out of range for month. Month: %s; Day: %s"
+msgstr "تاریخ سال مالی نادرست: روز خارج از محدوه برای ماه است. ماه: %s; روز: %s"
